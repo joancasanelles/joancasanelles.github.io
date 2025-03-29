@@ -1,11 +1,52 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Joan Casanelles Abella - Urban Ecologist"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About Me
+
+I'm an ecologist specializing in urban biodiversity, predictive modeling, and socio-eco-evolutionary dynamics. Currently, I'm a SNF Postdoc Mobility fellow at TU München and a guest scientist at the Swiss Federal Research Institute WSL, working on understanding how urban environments impact species interactions and ecological processes.
+
+## Research Interests
+
+* Urban biodiversity
+* Predictive modelling
+* Socio-eco-evolutionary dynamics
+* Competitive, parasitic and mutualistic interactions
+* Urban beekeeping management
+* Environmental history
+* Environmental justice
+
+### Taxonomic Interests
+* Plants
+* Bees
+* Cavity-nesting wasps
+* Butterflies
+* Hoverflies
+* Dragonflies
+* Grasshoppers and crickets
+* Beetles
+
+## Education
+
+| 2017-2022 | PhD at ETH Zürich               | ETH Zürich                                          |
+| 2015-2017 | Master in Ecology and Evolution | Vrije Universitet Amsterdam University of Amsterdam |
+| 2010-2015 | Bachelor in Biology             | University of Barcelona                             |
+
+## Work Experience
+
+* 2024-current: SNF Postdoc Mobility at TU München
+* 2023-current: Guest scientist at the Biodiversity and Conservation Biology (WSL)
+* 2023: Postdoc at EAWAG
+* 2022-2023: Postdoc at the Biodiversity and Conservation Biology (WSL)
+* 2017-2022: PhD student at the Biodiversity and Conservation Biology working on the European Project BioVEINS
+* 2020: Research staff in the project Urban Trees between the WSL and the Gründ Stadt Zürich
+* 2020-2021: Research staff in the project City4Bees between the WSL and the Federal Office for the Environment FOEN
+* 2014-2015: Intern at the Plant Biodiversity Resource Center (CeDocBiV)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

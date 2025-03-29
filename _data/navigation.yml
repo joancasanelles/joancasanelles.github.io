@@ -8,21 +8,33 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "About"
+    url: /about/
+
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Urban Biodiversity"
+        url: /research/urban-biodiversity/
+      - title: "Predictive Modelling"
+        url: /research/predictive-modelling/
+      - title: "Socio-eco-evolutionary Dynamics"
+        url: /research/socio-eco-dynamics/
+      - title: "Species Interactions"
+        url: /research/species-interactions/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects"
+    url: /projects/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Field Notes"
+    url: /field-notes/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     

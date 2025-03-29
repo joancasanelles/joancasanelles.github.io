@@ -11,54 +11,76 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ecology, ETH Zürich, 2022
+* M.S. in Ecology and Evolution, Vrije Universitet Amsterdam & University of Amsterdam, 2017
+* B.S. in Biology, University of Barcelona, 2015
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: SNF Postdoc Mobility
+  * TU München
+  * Urban ecology and species interactions
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-present: Guest Scientist
+  * Swiss Federal Research Institute WSL
+  * Biodiversity and Conservation Biology
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2023: Postdoctoral Researcher
+  * EAWAG (Swiss Federal Institute of Aquatic Science and Technology)
+
+* 2022-2023: Postdoctoral Researcher
+  * Swiss Federal Research Institute WSL
+  * Biodiversity and Conservation Biology
+
+* 2017-2022: PhD Researcher
+  * Swiss Federal Research Institute WSL & ETH Zürich
+  * European Project BioVEINS
+  * Supervisor: Marco Moretti
+
+Research Projects
+======
+* 2020-2021: Research Staff
+  * Project City4Bees
+  * WSL and Federal Office for the Environment FOEN
+
+* 2020: Research Staff
+  * Project Urban Trees
+  * WSL and Gründ Stadt Zürich
+
+* 2014-2015: Research Intern
+  * Plant Biodiversity Resource Center (CeDocBiV)
+  * University of Barcelona
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Field Ecology
+  * Insect sampling and identification
+  * Plant surveys
+  * Experimental design
+* Data Analysis
+  * R programming
+  * Statistical modeling
+  * GIS and spatial analysis
+* Scientific Communication
+  * Academic writing
+  * Science communication
+  * Project management
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ecological journals
+* Member of ecological societies
+* Workshop organization
+* Public outreach activities
