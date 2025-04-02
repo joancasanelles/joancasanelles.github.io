@@ -71,15 +71,15 @@ I have a pation for botany and insect enthomology (I am an active member of [iNa
     <h2>Education</h2>
     <table>
       <tr>
-        <td>2017-2022</td>
+        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2017-2022</td>
         <td>PhD at ETH Zürich</td>
       </tr>
       <tr>
-        <td>2015-2017</td>
+        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2015-2017</td>
         <td>Master in Ecology and Evolution, Vrije Universitet Amsterdam & University of Amsterdam</td>
       </tr>
       <tr>
-        <td>2010-2015</td>
+        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2010-2015</td>
         <td>Bachelor in Biology, University of Barcelona</td>
       </tr>
     </table>
