@@ -3,8 +3,8 @@ permalink: /
 title: "Dr. Joan Casanelles Abella - Urban Ecologist"
 author_profile: true
 redirect_from: 
-  - //
-  - /.html
+  - /about/
+  - /about.html
 ---
 
 ## Biography
