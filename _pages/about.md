@@ -9,7 +9,9 @@ redirect_from:
 
 ## Biography
 
-I'm an ecologist specializing in urban biodiversity, predictive modeling, and socio-eco-evolutionary dynamics. Currently, I'm a SNF Postdoc Mobility fellow at TU München and a guest scientist at the Swiss Federal Research Institute WSL, working on understanding how urban environments impact species interactions and ecological processes.
+Hi there! I'm an ecologist wit strong interests on urban ecosystems and conservation biology. Currently, I'm a Swiss National Science Foundation (SNF) Postdoc Mobility fellow at TU München at the Urban Productive Ecosystems and a guest scientist at the Swiss Federal Research Institute WSL, working on understanding how urban environments impact species interactions and ecological processes.
+
+Besides my own work, I am also involved in different projects including the SNF Synergia PAPPUS, the DFG project CityBees and the StMELF project Streuklim.
 
 <style>
 .column-container {
