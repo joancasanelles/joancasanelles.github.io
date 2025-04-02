@@ -2,7 +2,6 @@
 title: "Local and landscape factors shape alpha and beta trophic interaction diversity in urban gardens"
 collection: publications
 permalink: /publication/2024-trophic-interaction
-excerpt: 'This paper explores how local and landscape factors influence trophic interactions in urban gardens, with 1 citation.'
 date: 2024-03-01
 venue: 'Proceedings B'
 paperurl: 'https://doi.org/10.1098/rspb.2023.2501'

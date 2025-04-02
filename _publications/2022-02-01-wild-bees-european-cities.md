@@ -2,7 +2,6 @@
 title: "How wild bees find a way in European cities: Pollen metabarcoding unravels multiple feeding strategies and their effects on distribution patterns in four wild bee species"
 collection: publications
 permalink: /publication/2022-wild-bees-european-cities
-excerpt: 'This study reveals how different wild bee species adapt their feeding strategies in urban environments across Europe, with 46 citations.'
 date: 2022-02-01
 venue: 'Journal of Applied Ecology'
 paperurl: 'https://doi.org/10.1111/1365-2664.14070'

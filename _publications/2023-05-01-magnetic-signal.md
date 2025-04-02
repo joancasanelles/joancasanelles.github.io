@@ -2,7 +2,6 @@
 title: "The magnetic signal from trunk bark of urban trees catches the variation in particulate matter exposure within and across six European cities"
 collection: publications
 permalink: /publication/2023-magnetic-signal
-excerpt: 'This research uses tree bark magnetic signals to measure urban particulate matter exposure, with 5 citations.'
 date: 2023-05-01
 venue: 'Environmental Science and Pollution Research'
 paperurl: 'https://doi.org/10.1007/s11356-023-25905-w'

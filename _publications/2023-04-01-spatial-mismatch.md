@@ -2,7 +2,6 @@
 title: "Spatial mismatch between wild bee diversity hotspots and protected areas"
 collection: publications
 permalink: /publication/2023-spatial-mismatch
-excerpt: 'This study identifies mismatches between bee diversity and protected areas, with 8 citations.'
 date: 2023-04-01
 venue: 'Conservation Biology'
 paperurl: 'https://doi.org/10.1111/cobi.14082'

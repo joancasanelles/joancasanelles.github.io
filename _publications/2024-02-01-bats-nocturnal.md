@@ -2,7 +2,6 @@
 title: "Response of bats and nocturnal insects to urban green areas in Europe"
 collection: publications
 permalink: /publication/2024-bats-nocturnal
-excerpt: 'This research investigates how urban green spaces affect bat and nocturnal insect communities, with 15 citations.'
 date: 2024-02-01
 venue: 'Landscape and Urban Planning'
 paperurl: 'https://doi.org/10.1016/j.landurbplan.2023.104954'
