@@ -6,31 +6,49 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<h2>Journal Articles</h2>
+
+<div class="publication-list">
+{% for post in site.publications reversed %}
+  {% if post.category == 'manuscripts' %}
     {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+</div>
+
+<style>
+.publication-list {
+  margin-top: 2em;
+}
+
+.publication-list article {
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.publication-list .archive__item-title {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+.publication-list .page__meta {
+  margin: 0.5em 0;
+  font-size: 0.8em;
+  color: #646464;
+}
+
+.publication-list .archive__item-excerpt {
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+</style>
 
 
 
