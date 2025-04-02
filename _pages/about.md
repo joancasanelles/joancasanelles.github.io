@@ -82,14 +82,5 @@ I'm an ecologist specializing in urban biodiversity, predictive modeling, and so
   </div>
 </div>
 
-## Work Experience
 
-* 2024-current: SNF Postdoc Mobility at TU München
-* 2023-current: Guest scientist at the Biodiversity and Conservation Biology (WSL)
-* 2023: Postdoc at EAWAG
-* 2022-2023: Postdoc at the Biodiversity and Conservation Biology (WSL)
-* 2017-2022: PhD student at the Biodiversity and Conservation Biology working on the European Project BioVEINS
-* 2020: Research staff in the project Urban Trees between the WSL and the Gründ Stadt Zürich
-* 2020-2021: Research staff in the project City4Bees between the WSL and the Federal Office for the Environment FOEN
-* 2014-2015: Intern at the Plant Biodiversity Resource Center (CeDocBiV)
 
