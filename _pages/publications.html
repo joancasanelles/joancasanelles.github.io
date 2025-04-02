@@ -11,7 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Journal Articles</h2>
+<h2>Selected Publications</h2>
+
+<ul class="publication-bullets">
+  <li>Casanelles-Abella, J., & Egerer, M. (2025). Special Issue–The ecology of future cities. Basic and Applied Ecology.</li>
+  <li>Casanelles-Abella, J., Selva, S., Keller, A., Ruedenauer, F.A., Fournier, B., et al. (2025). Data on the diet and nutrition of urban and rural bumblebees. Scientific Data, 12(1), 286.</li>
+  <li>Casanelles‐Abella, J., Pellissier, L., Aleixo, C., Orti, M.A., Chiron, F., Deguines, N., et al. (2024). Urban intensity gradients shape community structure, life‐history traits and performance in a multitrophic system. Insect Conservation and Diversity, 17(2), 243-258.</li>
+  <li>Casanelles‐Abella, J., Fontana, S., Meier, E., Moretti, M., & Fournier, B. (2023). Spatial mismatch between wild bee diversity hotspots and protected areas. Conservation Biology, 37(4), e14082.</li>
+  <li>Casanelles‐Abella, J., Müller, S., Keller, A., Aleixo, C., Alés Orti, M., Chiron, F., et al. (2022). How wild bees find a way in European cities: Pollen metabarcoding unravels multiple feeding strategies and their effects on distribution patterns in four wild bee species. Journal of Applied Ecology, 59(2), 457-470.</li>
+</ul>
+
+<h2>All Publications</h2>
 
 <div class="publication-list">
 {% for post in site.publications reversed %}
@@ -46,6 +56,16 @@ author_profile: true
 .publication-list .archive__item-excerpt {
   margin-top: 0.5em;
   font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.publication-bullets {
+  margin-bottom: 2em;
+  padding-left: 1.5em;
+}
+
+.publication-bullets li {
+  margin-bottom: 1em;
   line-height: 1.5;
 }
 </style>
