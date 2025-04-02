@@ -13,7 +13,7 @@ Hi there! I'm an ecologist interested on urban ecosystems and conservation biolo
 
 Besides, I am also part of the following research projects: [SNF Synergia PAPPUS](https://www.wsl.ch/en/projects/plants-and-people-in-urban-green-space-pappus/), aimed at understanding plant-people interactions; the [DFG project CityBees](https://www.lss.ls.tum.de/en/upe/research/citybees/), researching bee diversity and nutrition under urban heat stress; and the [StMELF project StreuWiklim](https://www.lss.ls.tum.de/en/upe/research/streuwiklim/), investigating traditional orchard meadows under climate change.
 
-I have a pation for botany and insect enthomology (I am an active member of [iNaturalist](https://www.inaturalist.org/people/joan57) and a contributor to InfoFlora), as well as for (ancient) history. 
+I have a pation for botany and insect enthomology (I am an active member of [iNaturalist](https://www.inaturalist.org/people/joan57) and a contributor to InfoFlora), as well as for history. 
 
 <style>
 .column-container {
