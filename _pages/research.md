@@ -72,7 +72,7 @@ h2 {
     <p>Description</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/anIMALS.tif" alt="Urban pollinators research">
+    <img src="/images/research/anIMALS.jpg" alt="Urban pollinators research">
   </div>
 </div>
 
