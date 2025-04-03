@@ -9,78 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Ecology, ETH Zürich, 2022
-* M.S. in Ecology and Evolution, Vrije Universitet Amsterdam & University of Amsterdam, 2017
-* B.S. in Biology, University of Barcelona, 2015
+[Download CV as PDF]({{ base_path }}/files/Casanelles_CV.pdf){: .btn .btn--success}
 
-Work Experience
-======
-* 2024-present: SNF Postdoc Mobility
-  * TU München
-  * Urban ecology and species interactions
+<div class="cv-container">
+  <iframe 
+    src="{{ base_path }}/files/Casanelles_CV.pdf"
+    width="100%" 
+    height="800px" 
+    frameborder="0" 
+    scrolling="auto">
+    <p>It appears you don't have a PDF plugin for this browser.
+    You can <a href="{{ base_path }}/files/Casanelles_CV.pdf">click here to download the PDF file.</a></p>
+  </iframe>
+</div>
 
-* 2023-present: Guest Scientist
-  * Swiss Federal Research Institute WSL
-  * Biodiversity and Conservation Biology
+<style>
+.cv-container {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1em;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
 
-* 2023: Postdoctoral Researcher
-  * EAWAG (Swiss Federal Institute of Aquatic Science and Technology)
+.btn--success {
+    margin-bottom: 1em;
+    display: inline-block;
+}
+</style>
 
-* 2022-2023: Postdoctoral Researcher
-  * Swiss Federal Research Institute WSL
-  * Biodiversity and Conservation Biology
 
-* 2017-2022: PhD Researcher
-  * Swiss Federal Research Institute WSL & ETH Zürich
-  * European Project BioVEINS
-  * Supervisor: Marco Moretti
-
-Research Projects
-======
-* 2020-2021: Research Staff
-  * Project City4Bees
-  * WSL and Federal Office for the Environment FOEN
-
-* 2020: Research Staff
-  * Project Urban Trees
-  * WSL and Gründ Stadt Zürich
-
-* 2014-2015: Research Intern
-  * Plant Biodiversity Resource Center (CeDocBiV)
-  * University of Barcelona
-
-Skills
-======
-* Field Ecology
-  * Insect sampling and identification
-  * Plant surveys
-  * Experimental design
-* Data Analysis
-  * R programming
-  * Statistical modeling
-  * GIS and spatial analysis
-* Scientific Communication
-  * Academic writing
-  * Science communication
-  * Project management
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and Leadership
-======
-* Reviewer for ecological journals
-* Member of ecological societies
-* Workshop organization
-* Public outreach activities
