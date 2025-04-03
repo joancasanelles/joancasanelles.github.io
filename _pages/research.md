@@ -49,7 +49,7 @@ h2 {
 <div class="research-topic">
   <div class="research-content">
     <h2>Urban biodiversity modelling</h2>
-    <p>Description</p>
+    <p>I am interested in applying biodiversity modelling frameworks typically done in macroecology and biogeography in urban ecosystems Increasing urbanization worldwide poses threats but also offering opportunities for biodiversity conservation. Although the number of urban ecology studies is increasing, the knowledge on urban biodiversity is still hampered by the difficulty of extrapolating traditional biodiversity point measurements to a larger scale, e.g. a whole city. Biodiversity models, including species distribution models (SDMs) and species richness models (SRMs), have proved to be a key tool to solve this shortfall in biodiversity knowledge at studies set at larger spatial scales. However, biodiversity modelling have rarely been used in the context of urban areas due to either the lack of sufficient species records or high-quality predictors. Yet, new sources of data, both in the form of high resolution predictors and biodiversity observations are changing this quickly (see <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13169" class="access-link">this</a>, and <a href="https://www.sciencedirect.com/science/article/pii/S0169204621001006" class="access-link">this</a>). Associated project: BioDiverCities</p>
   </div>
   <div class="research-image">
     <img src="/images/research/giff_zuridivercity.gif" alt="Urban biodiversity modelling">
@@ -59,10 +59,10 @@ h2 {
 <div class="research-topic">
   <div class="research-content">
     <h2>Nutritional ecology in human-dominated ecosystems</h2>
-    <p>Description</p>
+    <p>I am very interested in understanding how nutritional landscapes affect foraging behaviour and dietary patterns of animals, specifically insects. Furthermore, I am also interested in understanding how nutritional landscapes change in human-dominated ecosystems due to human actions and preferences, and in turn, influence species interactions with associated trophic levels and bioviersity patterns.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/" alt="Social-ecological systems research">
+    <img src="/images/research/" alt="Nutritional ecology">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ h2 {
     <p>Description</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/anIMALS.jpg" alt="Urban pollinators research">
+    <img src="/images/research/anIMALS.jpg" alt="Urban densification">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ h2 {
     <p> Description.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/" alt="Urban green space research">
+    <img src="/images/research/" alt="Plant-people-insect interactions">
   </div>
 </div>
 
@@ -92,6 +92,6 @@ h2 {
     <p> Description.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/" alt="Urban green space research">
+    <img src="/images/research/bee_composition.png" alt="Protected areas in CH">
   </div>
 </div>
