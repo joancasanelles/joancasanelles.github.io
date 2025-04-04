@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-advanced-methods
 venue: "Technical University of Munich (TUM)"
-date: 2024-04
+date: 2024-04-01
 ---
 
 Course Description
