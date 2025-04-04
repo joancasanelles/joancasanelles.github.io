@@ -15,76 +15,38 @@ Besides, I am also part of the following research projects: [SNF Synergia PAPPUS
 
 I have a pation for botany and insect enthomology (I am an active member of [iNaturalist](https://www.inaturalist.org/people/joan57) and a contributor to InfoFlora), as well as for history. 
 
-<style>
-.column-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.column {
-  flex: 1;
-  min-width: 250px;
-}
-
-.column table {
-  width: 100%;
-  font-size: 0.9em;
-}
-
-.column h2 {
-  margin-top: 0;
-  padding-top: 0;
-}
-</style>
-
-<div class="column-container">
-  <div class="column">
-    <h2>Research Interests</h2>
-    <ul>
-      <li>Urban biodiversity</li>
-      <li>Predictive modelling</li>
-      <li>Socio-eco-evolutionary dynamics</li>
-      <li>Competitive, parasitic and mutualistic interactions</li>
-      <li>Urban beekeeping management</li>
-      <li>Environmental history</li>
-      <li>Environmental justice</li>
-    </ul>
-  </div>
-  
-  <div class="column">
-    <h2>Taxonomic Interests</h2>
-    <ul>
-      <li>Plants</li>
-      <li>Bees</li>
-      <li>Cavity-nesting wasps</li>
-      <li>Butterflies</li>
-      <li>Hoverflies</li>
-      <li>Dragonflies</li>
-      <li>Grasshoppers and crickets</li>
-      <li>Beetles</li>
-    </ul>
-  </div>
-  
-  <div class="column">
-    <h2>Education</h2>
-    <table>
-      <tr>
-        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2017-2022</td>
-        <td>PhD at ETH Zürich</td>
-      </tr>
-      <tr>
-        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2015-2017</td>
-        <td>Master in Ecology and Evolution, Vrije Universitet Amsterdam & University of Amsterdam</td>
-      </tr>
-      <tr>
-        <td><i class="fas fa-graduation-cap" aria-hidden="true"></i> 2010-2015</td>
-        <td>Bachelor in Biology, University of Barcelona</td>
-      </tr>
-    </table>
-  </div>
+<div class="column">
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
+      PhD in Ecology, ETH Zürich
+    </li>
+    <li>
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
+      Master in Ecology and Evolution, Vrije Universiteit Amsterdam & University of Amsterdam
+    </li>
+    <li>
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
+      Bachelor in Biology, University of Barcelona
+    </li>
+  </ul>
 </div>
+
+.column ul {
+  list-style-type: none; /* Remove default bullets */
+  padding-left: 0; /* Remove padding */
+}
+
+.column li {
+  margin-bottom: 1em; /* Space between items */
+  font-size: 1em; /* Adjust font size */
+}
+
+.column i {
+  margin-right: 0.5em; /* Space between icon and text */
+  color: #333; /* Icon color */
+}
 
 
 

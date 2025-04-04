@@ -5,9 +5,9 @@ permalink: /field-notes/
 author_profile: true
 ---
 
-## Field work and community science
+## Taxonomic interests, field work and community science
 
-This page contains my work on iNaturalist and field work.
+This page contains my work on iNaturalist and field work. While I am not a taxonomist, I am a motivated naturalists. My taxonomic interests cover plants, and several insect groups such as bees, cavity-nesting wasps, butterflies, grasshoppers and dragonflies. 
 
 ### iNaturalist Contributions
 
@@ -17,15 +17,15 @@ I'm an active iNaturalist user, contributing observations of plants, insects, an
 
 *Note: If the iframe above doesn't load properly, you can visit my [iNaturalist profile](https://www.inaturalist.org/people/965737) directly.*
 
-### Recent Field work
+### Recent Field work campaigns
 
-#### Urban Pollinator Surveys in Munich and Berlin 2024 - 2025
-*April - September 2025*
+#### Surveys in Munich and Berlin
+April - September 2025: Urban plant and bee surveys, as part of the CityBee project.
 
 
-*May - September 2024*
+May - September 2024:: Urban plant and bee surveys, as part of the CityBee project.
 
-#### Urban plants in Zurich 2023
-
+#### Surveys Zurich 
+May-July 2023: Urban plant surveys, part of the project PAPPUS.
 
 
