@@ -9,11 +9,10 @@ author_profile: true
 
 <div class="project-item">
   <h3>BioDiverCities</h3>
-  <p>This project focuses on understanding how social-ecological drivers impact biodiversity patterns, ecological processes, and nature's contributions to people in urban environments using macroecological and biodiversity modelling tools.</p>
-  <p>Role: PI</p>
-  <p>Funder: Swiss National Science Foundation Postdoc.Mobility Program.</p>
-  <p>Funding: 104'000 CHF</p>
-
+  <p>This project focuses on understanding how social-ecological drivers impact biodiversity patterns, ecological processes, and nature's contributions to people in urban environments.</p>
+  <p><span style="font-size: smaller;"><strong>Role:</strong> PI</span></p>
+  <p><span style="font-size: smaller;"><strong>Funder:</strong> Swiss National Science Foundation Postdoc Mobility Program.</span></p>
+  <p><span style="font-size: smaller;"><strong>Funding:</strong> 104'000 CHF</span></p>
 </div>
 
 <h2>Other Projects I Participate In</h2>
