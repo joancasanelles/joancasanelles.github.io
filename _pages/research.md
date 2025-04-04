@@ -69,7 +69,7 @@ h2 {
 <div class="research-topic">
   <div class="research-content">
     <h2>Urban biodiversity in densifying cities</h2>
-    <p>Description</p>
+    <p>Urban sprawl and densification is increasing worldwide, imposing main challenges for preserving biodiversity. Urban densification often replace and reduce existing green areas, replacing high biodiversity urban greenspace types as allotments or by reducing available greenspace in housing estates. Due to the existing constaints, finding an operational space within this suboptimal situation to guarantee maintaining urban biodiversity is critical. </p>
   </div>
   <div class="research-image">
     <img src="/images/research/anIMALS.jpg" alt="Urban densification">
