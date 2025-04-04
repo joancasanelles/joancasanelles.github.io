@@ -33,20 +33,5 @@ I have a pation for botany and insect enthomology (I am an active member of [iNa
   </ul>
 </div>
 
-.column ul {
-  list-style-type: none; /* Remove default bullets */
-  padding-left: 0; /* Remove padding */
-}
-
-.column li {
-  margin-bottom: 1em; /* Space between items */
-  font-size: 1em; /* Adjust font size */
-}
-
-.column i {
-  margin-right: 0.5em; /* Space between icon and text */
-  color: #333; /* Icon color */
-}
-
 
 

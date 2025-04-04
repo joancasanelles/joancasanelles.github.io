@@ -9,7 +9,7 @@ author_profile: true
 
 This page contains my work on iNaturalist and field work. While I am not a taxonomist, I am a motivated naturalists. My taxonomic interests cover plants, and several insect groups such as bees, cavity-nesting wasps, butterflies, grasshoppers and dragonflies. 
 
-### iNaturalist Contributions
+### iNaturalist and Infoflora Contributions
 
 I'm an active iNaturalist user, contributing observations of plants, insects, and other taxa from urban and natural areas. My observations help build a broader understanding of species distributions and phenology.
 
