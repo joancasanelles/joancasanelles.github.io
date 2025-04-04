@@ -36,7 +36,14 @@ author_profile: true
 
   <li> Pinho, P., Casanelles‐Abella, J.,  et al. (2021). Research agenda on biodiversity and ecosystem functions and services in European cities. Basic and Applied Ecology, 53, 124-133 <a href="https://doi.org/10.1016/j.baae.2021.02.014" class="access-link">Access</a></li>
 </ul>
-
+<div class="publication-list">
+  {% for post in site.publications reversed %}
+    {% if post.category == 'manuscripts' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  
 <h2>Reports for the government</h2>
 <ul class="publication-bullets">
 
@@ -45,16 +52,28 @@ author_profile: true
   <li>Casanelles-Abella, J.; Frey, D.; Moretti, M., (2021). City4Bees. Wild bees and honeybees and their resources in cities. Final report for the Federal Office for the Environment (FOEN). 34 p.</li>
 
 </ul> 
-
+<div class="publication-list">
+  {% for post in site.publications reversed %}
+    {% if post.category == 'manuscripts' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
 <h2>Outreach publications</h2>
 <ul class="publication-bullets">
 
-  <li>Casanelles-Abella, J.; Moretti, M., (2025). Eine zu hohe verdichtung der städte kann die anzahl
-    der arten und deren interaktionen reduzieren. N+L Inside 1/25. </li>
+  <li>Casanelles-Abella, J.; Moretti, M., (2025). Eine zu hohe verdichtung der städte kann die anzahl der arten und deren interaktionen reduzieren. N+L Inside 1/25. </li>
 
   <li>Leimgruber, M.; Casanelles-Abella, J.; Moretti, M., 2020. Bienenschutz in der stadt: more than honey? N+L Inside 1/20. </li>
 
 </ul> 
+<div class="publication-list">
+  {% for post in site.publications reversed %}
+    {% if post.category == 'manuscripts' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  </div>
 
 <h2>Documentaries</h2>
 <ul class="publication-bullets">
@@ -64,13 +83,10 @@ author_profile: true
 </ul> 
 
 <div class="publication-list">
-{% for post in site.publications reversed %}
-  {% if post.category == 'manuscripts' %}
+  {% for post in site.publications reversed %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-</div>
-
+  {% endfor %}
+  </div>
 <style>
 .publication-list {
   margin-top: 2em;
