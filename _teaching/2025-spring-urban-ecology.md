@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-urban-ecology
 venue: "Technical University of Munich (TUM)"
-date: 2025-01-01
+date: "Summer semester 2025"
 location: "Munich, Germany"
 ---
 

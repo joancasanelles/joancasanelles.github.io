@@ -5,12 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <h2>Courses</h2>
 
 <div class="course-list">
@@ -19,8 +13,20 @@ author_profile: true
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p><strong>Venue:</strong> {{ post.venue }}</p>
     <p><strong>Date:</strong> {{ post.date }}</p>
-    <p><strong>Location:</strong> {{ post.location }}</p>
     <!-- Course description is not displayed here -->
   </div>
 {% endfor %}
 </div>
+
+<h2>Junior Researcher Co-supervision</h2>
+<h3>PhDs</h3>
+<ul>
+  <li>Niclas Hoegel. Orchard meadows under climate and social change. Project StreuWiKlim. TU Munich. 2024-currently</li>
+  <li>Alexandra Zink. Urban bees under heat stress. Project CityBees. TU Munich. 2024-currently</li>
+</ul>
+
+<h3>Master and Bachelor Students</h3>
+<ul>
+  <li>Simonetta Selva. Urban and rural bumblebee diets. Project BumbleDiets ETH Zurich. 2023</li>
+  <li>Steffanie Müller. How wild bees find a way in European cities. Project BioVEINS University of Zurich2020</li>
+</ul>
