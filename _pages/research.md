@@ -62,27 +62,27 @@ h2 {
     <p>I am very interested in understanding how novel nutritional landscapes affect foraging behaviour and dietary patterns of animals, specifically insects. Furthermore, I am also interested in understanding how nutritional landscapes change in human-dominated ecosystems due to human actions and preferences, and in turn, influence species interactions with associated trophic levels and bioviersity patterns. In my past and current projects, I have focus on both the diet breadth and the nutrient intake of wild bees in urban and rural areas, employing DNA metabarcoding and chemical analyses on macronutrients such as amino acids, fatty acids and sterols. This has been achieved by establishing successful collaborations, specifically, the company allGenetics, the plant-insect interaction group at TUM, the mollecular ecology group at the LMU, and the chemical ecology group at the University of Neuchātel.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/" alt="Nutritional ecology">
+    <img src="/images/research/Animals2.png" alt="Nutritional ecology">
   </div>
 </div>
 
 <div class="research-topic">
   <div class="research-content">
-    <h2>Urban biodiversity in densifying cities</h2>
+    <h2>Urban biodiversity and nature in densifying cities</h2>
     <p>Urban sprawl and densification is increasing worldwide, imposing main challenges for preserving biodiversity. Urban densification often replace and reduce existing green areas, replacing high biodiversity urban greenspace types as allotments or by reducing available greenspace in housing estates. Due to the existing constaints, finding an operational space within this suboptimal situation to guarantee maintaining urban biodiversity is critical. </p>
   </div>
   <div class="research-image">
-    <img src="/images/research/anIMALS.jpg" alt="Urban densification">
+    <img src="/images/research/Densification.jpeg" alt="Urban densification">
   </div>
 </div>
 
 <div class="research-topic">
   <div class="research-content">
     <h2>People-plant-insect interactions</h2>
-    <p> Description.</p>
+    <p> Humans have been gardeners and landscape planners and managers since centuries. Through facilitation and exclusion of plant species and specific traits, humans create unique plant assemblages, which then influence associated taxa such as herbivores, decomposers or pollinators. I am interested in understanding how plants are selected and the organizaional scales at which plants co-occur together in human-dominated ecosystems, as well as the consequences on associated biodiversity, ecosystem process and funcionts, and contributions to people.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/" alt="Plant-people-insect interactions">
+    <img src="/images/research/PPI.jpg" alt="Plant-people-insect interactions">
   </div>
 </div>
 
