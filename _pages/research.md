@@ -72,7 +72,7 @@ h2 {
     <p>Urban sprawl and densification is increasing worldwide, imposing main challenges for preserving biodiversity. Urban densification often replace and reduce existing green areas, replacing high biodiversity urban greenspace types as allotments or by reducing available greenspace in housing estates. Due to the existing constaints, finding an operational space within this suboptimal situation to guarantee maintaining urban biodiversity is critical. </p>
   </div>
   <div class="research-image">
-    <img src="/images/research/Densification.jpeg" alt="Urban densification">
+    <img src="/images/research/Densification2.jpg" alt="Urban densification">
   </div>
 </div>
 
