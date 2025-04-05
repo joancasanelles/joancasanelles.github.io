@@ -62,7 +62,7 @@ h2 {
     <p>I am very interested in understanding how novel nutritional landscapes affect foraging behaviour and dietary patterns of animals, specifically insects. Furthermore, I am also interested in understanding how nutritional landscapes change in human-dominated ecosystems due to human actions and preferences, and in turn, influence species interactions with associated trophic levels and bioviersity patterns. In my past and current projects, I have focus on both the diet breadth and the nutrient intake of wild bees in urban and rural areas, employing DNA metabarcoding and chemical analyses on macronutrients such as amino acids, fatty acids and sterols. This has been achieved by establishing successful collaborations, specifically, the company allGenetics, the plant-insect interaction group at TUM, the mollecular ecology group at the LMU, and the chemical ecology group at the University of Neuchātel.</p>
   </div>
   <div class="research-image">
-    <img src="/images/research/Animals2.png" alt="Nutritional ecology">
+    <img src="/images/research/Anmials2.png" alt="Nutritional ecology">
   </div>
 </div>
 
