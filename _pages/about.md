@@ -45,7 +45,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 .education-section {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start; /* Align items to the left */
 }
 
 .education-item {
@@ -58,7 +58,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: gray;
+  background-color: lightgray; /* Change circle color to light gray */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -66,17 +66,16 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 }
 
 .icon {
-  color: darkgreen;
+  color: #86AC41; /* Change icon color to #86AC41 */
   font-size: 20px; /* Adjust icon size */
 }
 
 .line {
   width: 2px;
   height: 20px; /* Adjust line height */
-  background-color: gray;
+  background-color: lightgray; /* Change line color to light gray */
   margin: 0 auto; /* Center the line */
 }
 </style>
-
 
 
