@@ -21,7 +21,8 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     <div class="circle">
       <i class="fas fa-graduation-cap icon"></i>
     </div>
-    <p>PhD in Ecology, ETH Zürich</p>
+    <p>PhD in Ecology, 2022 <p>
+    <p style="font-size: smaller; color: gray;">ETH Zürich</p> 
   </div>
   <div class="line"></div>
   
@@ -29,7 +30,8 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     <div class="circle">
       <i class="fas fa-graduation-cap icon"></i>
     </div>
-    <p>Master in Ecology and Evolution, Vrije Universiteit Amsterdam & University of Amsterdam</p>
+    <p>Master in Ecology and Evolution, 2017 <p> 
+    <p style="font-size: smaller; color: gray;">Vrije Universiteit Amsterdam</p> 
   </div>
   <div class="line"></div>
   
@@ -37,7 +39,8 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     <div class="circle">
       <i class="fas fa-graduation-cap icon"></i>
     </div>
-    <p>Bachelor in Biology, University of Barcelona</p>
+    <p>Bachelor in Biology,  <p> 
+    <p style="font-size: smaller; color: gray;">University of Barcelona</p> 
   </div>
 </div>
 
