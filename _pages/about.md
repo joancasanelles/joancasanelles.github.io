@@ -80,7 +80,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: lightgray; /* Light gray circle */
+  background-color: #EAE2D6; /* Light gray circle */
   display: flex;
   align-items: center;
   justify-content: center;
