@@ -15,23 +15,68 @@ Besides, I am also part of the following research projects: [SNF Synergia PAPPUS
 
 I have a passion for botany and insect enthomology (I am an active member of [iNaturalist](https://www.inaturalist.org/people/joan57) and a contributor to InfoFlora), as well as for history. 
 
-<div class="column">
+<div class="education-section">
   <h2>Education</h2>
-  <ul>
-    <li>
-      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
-      PhD in Ecology, ETH Zürich
-    </li>
-    <li>
-      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
-      Master in Ecology and Evolution, Vrije Universiteit Amsterdam & University of Amsterdam
-    </li>
-    <li>
-      <i class="fas fa-graduation-cap" aria-hidden="true"></i> 
-      Bachelor in Biology, University of Barcelona
-    </li>
-  </ul>
+  <div class="education-item">
+    <div class="circle">
+      <i class="fas fa-graduation-cap icon"></i>
+    </div>
+    <p>PhD in Ecology, ETH Zürich</p>
+  </div>
+  <div class="line"></div>
+  
+  <div class="education-item">
+    <div class="circle">
+      <i class="fas fa-graduation-cap icon"></i>
+    </div>
+    <p>Master in Ecology and Evolution, Vrije Universiteit Amsterdam & University of Amsterdam</p>
+  </div>
+  <div class="line"></div>
+  
+  <div class="education-item">
+    <div class="circle">
+      <i class="fas fa-graduation-cap icon"></i>
+    </div>
+    <p>Bachelor in Biology, University of Barcelona</p>
+  </div>
 </div>
+
+<style>
+.education-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.education-item {
+  display: flex;
+  align-items: center;
+  margin: 1em 0;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.icon {
+  color: darkgreen;
+  font-size: 20px; /* Adjust icon size */
+}
+
+.line {
+  width: 2px;
+  height: 20px; /* Adjust line height */
+  background-color: gray;
+  margin: 0 auto; /* Center the line */
+}
+</style>
 
 
 
