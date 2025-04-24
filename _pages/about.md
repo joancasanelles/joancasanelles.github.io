@@ -95,7 +95,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 .line {
   width: 2px;
   height: 20px;
-  background-color: lightgray;
+  background-color: #EAE2D6;
   margin-left: 20px; /* Center under the circle */
 }
 </style>
