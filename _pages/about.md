@@ -103,9 +103,9 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 <style>
 /* Increase size of author profile components */
 .author__avatar img {
-  width: 275px;  /* Increase profile picture size */
-  height: 275px;
-  border-radius: 50%;
+  width: 175px;  /* Increase profile picture size */
+  height: 175px;
+  border-radius: 750%;
 }
 
 .author__content {
