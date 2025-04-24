@@ -8,10 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About"
-    url: /about/
 
-  - title: "Research"
+
+  - title: "<i class='fas fa-flask'></i> Research"
     url: /research/
     children:
       - title: "Urban Biodiversity"
@@ -23,23 +22,22 @@ main:
       - title: "Species Interactions"
         url: /research/species-interactions/
 
-  - title: "Publications"
+  - title: "<i class='fas fa-book'></i> Publications"
     url: /publications/
 
-  - title: "Projects"
+  - title: "<i class='fas fa-users'></i> Projects"
     url: /projects/    
 
-  - title: "Teaching"
+  - title: "<i class='fas fa-chalkboard-teacher'></i> Teaching"
     url: /teaching/    
     
-  - title: "Field Notes"
+  - title: "<i class='fas fa-bee'></i> Field Notes"
     url: /field-notes/
         
-  - title: "CV"
+  - title: "<i class='fas fa-file-alt'></i> CV"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+
