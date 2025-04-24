@@ -103,8 +103,8 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 <style>
 /* Increase size of author profile components */
 .author__avatar img {
-  width: 175px;  /* Increase profile picture size */
-  height: 175px;
+  width: 275px;  /* Increase profile picture size */
+  height: 275px;
   border-radius: 50%;
 }
 
@@ -113,13 +113,13 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 }
 
 .author__name {
-  font-size: 2.2em;  /* Larger name */
+  font-size: 3em;  /* Larger name */
   margin: 0.5em 0 0.2em;
   font-weight: normal;  /* Remove bold */
 }
 
 .author__bio {
-  font-size: 1.2em;  /* Larger bio text */
+  font-size: 1.8em;  /* Larger bio text */
   margin-bottom: 1em;
 }
 
