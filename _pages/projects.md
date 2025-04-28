@@ -25,7 +25,7 @@ author_profile: true
 
 <div class="project-item">
   <h3>CityBees</h3>
-  <p>This project researches bee diversity and nutrition under urban heat stress.</p> <a href="https://www.lss.ls.tum.de/en/upe/research/citybees//" class="access-link">Access</a></p>
+  <p>This project researches bee diversity and nutrition under urban heat stress. <a href="https://www.streuwiklimprojekt.de/" class="access-link">Access</a></p>
   <p><span style="font-size: smaller;"><strong>Role:</strong> Postdoc / research staff</span></p>
   <p><span style="font-size: smaller;"><strong>Funder:</strong> DFG </span></p>
 </div>
