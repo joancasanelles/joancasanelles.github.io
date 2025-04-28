@@ -1,5 +1,5 @@
 ---
-title: "Advanced Methods and Concepts in Urban Ecosystems"
+title: "Advanced Methods and Concepts in Urban Ecosystems. Spring 2024"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-advanced-methods
