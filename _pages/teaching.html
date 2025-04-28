@@ -13,10 +13,21 @@ author_profile: true
     <div class="course-item">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p><strong>Venue:</strong> {{ post.venue }}</p>
-      <!-- Course description is not displayed here -->
       <p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>
+      <!-- Debug info - remove after testing -->
+      <p style="font-size: 0.8em; color: #999;">File: {{ post.path }}</p>
     </div>
   {% endfor %}
+  
+  <!-- Debug info - you can remove this after confirming it works -->
+  <div style="margin-top: 3em; padding-top: 1em; border-top: 1px solid #ddd;">
+    <h4>Files in Teaching Collection:</h4>
+    <ul>
+    {% for item in site.teaching %}
+      <li>{{ item.title }} - Path: {{ item.path }} - Date: {{ item.date | date: "%Y-%m-%d" }}</li>
+    {% endfor %}
+    </ul>
+  </div>
 </div>
 
 <h2>Junior Researcher Co-supervision</h2>
