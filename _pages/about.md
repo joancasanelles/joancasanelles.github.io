@@ -19,7 +19,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
   <div class="education-section">
     <h2>Education</h2>
     
-    <div class="education-item">
+   <div class="education-item">
       <div class="circle">
         <i class="fas fa-graduation-cap icon"></i>
       </div>
@@ -30,7 +30,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     </div>
     <div class="line"></div>
     
-    <div class="education-item">
+   <div class="education-item">
       <div class="circle">
         <i class="fas fa-graduation-cap icon"></i>
       </div>
@@ -41,7 +41,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     </div>
     <div class="line"></div>
     
-    <div class="education-item">
+   <div class="education-item">
       <div class="circle">
         <i class="fas fa-graduation-cap icon"></i>
       </div>
@@ -54,21 +54,18 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 
   <div class="experience-section">
     <h2>Professional Experience</h2>
-    
-    <div class="experience-item">
+     <div class="experience-item">
       <div class="circle">
         <i class="fas fa-briefcase icon"></i>
       </div>
       <div class="experience-content">
-        <p>SNF Postdoc Mobility Fellow, 2022-Present</p>
+        <p>SNF Postdoc Mobility Fellow, 2024-Present</p>
         <p style="font-size: smaller; color: gray;">TU Munich, Urban Productive Ecosystems</p>
       </div>
     </div>
     <div class="line"></div>
 
-        </div>
-        <div class="line"></div>
-        <div class="experience-item">
+   <div class="experience-item">
       <div class="circle">
         <i class="fas fa-briefcase icon"></i>
       </div>
@@ -79,9 +76,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     </div>
     <div class="line"></div>
 
-            </div>
-        <div class="line"></div>
-        <div class="experience-item">
+   <div class="experience-item">
       <div class="circle">
         <i class="fas fa-briefcase icon"></i>
       </div>
@@ -92,9 +87,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     </div>
     <div class="line"></div>
     
-    </div>
-        <div class="line"></div>
-        <div class="experience-item">
+   <div class="experience-item">
       <div class="circle">
         <i class="fas fa-briefcase icon"></i>
       </div>
@@ -105,8 +98,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
     </div>
     <div class="line"></div>
     
-
-    <div class="experience-item">
+   <div class="experience-item">
       <div class="circle">
         <i class="fas fa-briefcase icon"></i>
       </div>
