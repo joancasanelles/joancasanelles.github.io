@@ -15,63 +15,142 @@ Besides, I am also part of the following research projects: [SNF Synergia PAPPUS
 
 I have a passion for botany and insect enthomology (I am an active member of [iNaturalist](https://www.inaturalist.org/people/joan57) and a contributor to InfoFlora), as well as for history. 
 
-<div class="education-section">
-  <h2>Education</h2>
-  
-  <div class="education-item">
-    <div class="circle">
-      <i class="fas fa-graduation-cap icon"></i>
+<div class="">
+  <div class="education-section">
+    <h2>Education</h2>
+    
+    <div class="education-item">
+      <div class="circle">
+        <i class="fas fa-graduation-cap icon"></i>
+      </div>
+      <div class="education-content">
+        <p>PhD in Ecology, 2022</p>
+        <p style="font-size: smaller; color: gray;">ETH Zürich</p>
+      </div>
     </div>
-    <div class="education-content">
-      <p>PhD in Ecology, 2022</p>
-      <p style="font-size: smaller; color: gray;">ETH Zürich</p>
+    <div class="line"></div>
+    
+    <div class="education-item">
+      <div class="circle">
+        <i class="fas fa-graduation-cap icon"></i>
+      </div>
+      <div class="education-content">
+        <p>Master in Ecology and Evolution, 2017</p>
+        <p style="font-size: smaller; color: gray;">Vrije Universiteit Amsterdam & University of Amsterdam</p>
+      </div>
+    </div>
+    <div class="line"></div>
+    
+    <div class="education-item">
+      <div class="circle">
+        <i class="fas fa-graduation-cap icon"></i>
+      </div>
+      <div class="education-content">
+        <p>Bachelor in Biology, 2015</p>
+        <p style="font-size: smaller; color: gray;">University of Barcelona</p>
+      </div>
     </div>
   </div>
-  <div class="line"></div>
-  
-  <div class="education-item">
-    <div class="circle">
-      <i class="fas fa-graduation-cap icon"></i>
+
+  <div class="experience-section">
+    <h2>Professional Experience</h2>
+    
+    <div class="experience-item">
+      <div class="circle">
+        <i class="fas fa-briefcase icon"></i>
+      </div>
+      <div class="experience-content">
+        <p>SNF Postdoc Mobility Fellow, 2022-Present</p>
+        <p style="font-size: smaller; color: gray;">TU Munich, Urban Productive Ecosystems</p>
+      </div>
     </div>
-    <div class="education-content">
-      <p>Master in Ecology and Evolution, 2017</p>
-      <p style="font-size: smaller; color: gray;">Vrije Universiteit Amsterdam & University of Amsterdam</p>
+    <div class="line"></div>
+
+        </div>
+        <div class="line"></div>
+        <div class="experience-item">
+      <div class="circle">
+        <i class="fas fa-briefcase icon"></i>
+      </div>
+      <div class="experience-content">
+        <p>Postdoctoral researcher, 2023</p>
+        <p style="font-size: smaller; color: gray;">Swiss Federal Institute of Aquatic Science and Technology EAWAG</p>
+      </div>
     </div>
-  </div>
-  <div class="line"></div>
-  
-  <div class="education-item">
-    <div class="circle">
-      <i class="fas fa-graduation-cap icon"></i>
+    <div class="line"></div>
+
+            </div>
+        <div class="line"></div>
+        <div class="experience-item">
+      <div class="circle">
+        <i class="fas fa-briefcase icon"></i>
+      </div>
+      <div class="experience-content">
+        <p>Postdoctoral researcher, 2022</p>
+        <p style="font-size: smaller; color: gray;">Swiss Federal Research Institute WSL</p>
+      </div>
     </div>
-    <div class="education-content">
-      <p>Bachelor in Biology, 2015</p>
-      <p style="font-size: smaller; color: gray;">University of Barcelona</p>
+    <div class="line"></div>
+    
     </div>
+        <div class="line"></div>
+        <div class="experience-item">
+      <div class="circle">
+        <i class="fas fa-briefcase icon"></i>
+      </div>
+      <div class="experience-content">
+        <p>Research staff, 2021</p>
+        <p style="font-size: smaller; color: gray;">Swiss Federal Research Institute WSL</p>
+      </div>
+    </div>
+    <div class="line"></div>
+    
+
+    <div class="experience-item">
+      <div class="circle">
+        <i class="fas fa-briefcase icon"></i>
+      </div>
+      <div class="experience-content">
+        <p>PhD candidate, 2017-2021</p>
+        <p style="font-size: smaller; color: gray;">Swiss Federal Research Institute WSL</p>
+      </div>
+    
   </div>
 </div>
 
 <style>
-.education-section {
+.about-container {
   display: flex;
-  flex-direction: column;
-  align-items: flex-start; /* Align items to the left */
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 30px;
 }
 
-.education-item {
+.education-section, .experience-section {
+  flex: 1;
+  min-width: 280px;
+}
+
+.education-section, .experience-section {
   display: flex;
-  align-items: flex-start; /* Align to top for vertical content */
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.education-item, .experience-item {
+  display: flex;
+  align-items: flex-start;
   margin: 1em 0;
 }
 
-.education-content {
+.education-content, .experience-content {
   display: flex;
   flex-direction: column;
   margin-left: 10px;
 }
 
-.education-content p {
-  margin: 0; /* Remove default paragraph margins */
+.education-content p, .experience-content p {
+  margin: 0;
   padding: 0;
   line-height: 1.4;
 }
@@ -80,7 +159,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #EAE2D6; /* Light gray circle */
+  background-color: #EAE2D6;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -88,7 +167,7 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
 }
 
 .icon {
-  color: #86AC41; /* Custom green color */
+  color: #86AC41;
   font-size: 20px;
 }
 
@@ -96,7 +175,18 @@ I have a passion for botany and insect enthomology (I am an active member of [iN
   width: 2px;
   height: 20px;
   background-color: #EAE2D6;
-  margin-left: 20px; /* Center under the circle */
+  margin-left: 20px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+  }
+  
+  .education-section, .experience-section {
+    width: 100%;
+  }
 }
 </style>
 
