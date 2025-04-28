@@ -8,13 +8,15 @@ author_profile: true
 <h2>Courses</h2>
 
 <div class="course-list">
-{% for post in site.teaching %}
-  <div class="course-item">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><strong>Venue:</strong> {{ post.venue }}</p>
-    <!-- Course description is not displayed here -->
-  </div>
-{% endfor %}
+  {% assign sorted_teaching = site.teaching | sort: 'date' | reverse %}
+  {% for post in sorted_teaching %}
+    <div class="course-item">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p><strong>Venue:</strong> {{ post.venue }}</p>
+      <!-- Course description is not displayed here -->
+      <p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>
+    </div>
+  {% endfor %}
 </div>
 
 <h2>Junior Researcher Co-supervision</h2>
