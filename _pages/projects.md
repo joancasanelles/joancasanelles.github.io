@@ -5,16 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-<h2>Current main projects</h2>
-
-<div class="project-item">
-  <h3>BioDiverCities:  Social-ecological drivers of urban biodiversity and nature's contributions to people: new approaches to understand and manage urban ecosystems </h3>
-  <p>This project focuses on understanding how social-ecological drivers impact biodiversity patterns, ecological processes, and nature's contributions to people in urban environments. <a href="https://data.snf.ch/grants/grant/217754" class="access-link">Access</a></p>
-  <p><span style="font-size: smaller;"><strong>Role:</strong> PI</span></p>
-  <p><span style="font-size: smaller;"><strong>Funder:</strong> Swiss National Science Foundation Postdoc Mobility Program.</span></p>
-  <p><span style="font-size: smaller;"><strong>Funding:</strong> 104'000 CHF</span></p>
-</div>
-
 <h2>Projects I Participate in</h2>
 <div class="project-item">
   <h3>PAPPUS: Plants and People in Urban Systems  - How human and biophysical factors jointly shape biodiversity and nature’s contributions to people in cities </h3>
@@ -53,6 +43,12 @@ author_profile: true
 
 <h2>Past projects</h2>
 <div class="project-item">
+<h3>BioDiverCities:  Social-ecological drivers of urban biodiversity and nature's contributions to people: new approaches to understand and manage urban ecosystems </h3>
+<p>This project focuses on understanding how social-ecological drivers impact biodiversity patterns, ecological processes, and nature's contributions to people in urban environments. <a href="https://data.snf.ch/grants/grant/217754" class="access-link">Access</a></p>
+<p><span style="font-size: smaller;"><strong>Role:</strong> PI</span></p>
+<p><span style="font-size: smaller;"><strong>Funder:</strong> Swiss National Science Foundation Postdoc Mobility Program.</span></p>
+<p><span style="font-size: smaller;"><strong>Funding:</strong> 104'000 CHF</span></p>
+</div>
 <h3>BIOVEINS. Connectivity of green and blue infrastructures: living veins for biodiverse and healthy cities </h3>
 <p>Urban biodiversity across European cities. <a href="https://data.snf.ch/grants/grant/172467" class="access-link">Access</a></p>
  <p><span style="font-size: smaller;"><strong>Duration:</strong> 2017-2021</span></p>
