@@ -6,40 +6,8 @@ author_profile: true
 ---
 
 <h2>Projects I Participate in</h2>
-<div class="project-item">
-  <h3>PAPPUS: Plants and People in Urban Systems  - How human and biophysical factors jointly shape biodiversity and nature’s contributions to people in cities </h3>
-  <p>This project aims to understand plant-people interactions in urban green spaces. <a href="https://data.snf.ch/grants/grant/213584" class="access-link">Access</a></p>
-  <p><span style="font-size: smaller;"><strong>Role:</strong> Postdoc / research staff</span></p>
-  <p><span style="font-size: smaller;"><strong>Funder:</strong> Swiss National Science Foundation Synergia Program</span></p>
-</div>
+Besides my own work and research, I am  part of the following research projects: [SNF Synergia PAPPUS](https://www.wsl.ch/en/projects/plants-and-people-in-urban-green-space-pappus/), aimed at understanding plant-people-insect interactions across urban greenspaces; the [DFG project CityBees](https://www.lss.ls.tum.de/en/upe/research/citybees/), researching bee diversity and nutrition under urban heat stress; and the [StMELF project StreuWiklim](https://www.lss.ls.tum.de/en/upe/research/streuwiklim/), investigating traditional orchard meadows under climate change.
 
-<div class="project-item">
-  <h3>CityBees</h3>
-  <p>This project researches bee diversity and nutrition under urban heat stress. <a href="https://www.streuwiklimprojekt.de/" class="access-link">Access</a></p>
-  <p><span style="font-size: smaller;"><strong>Role:</strong> Postdoc / research staff</span></p>
-  <p><span style="font-size: smaller;"><strong>Funder:</strong> DFG </span></p>
-</div>
-
-<div class="project-item">
-  <h3>StreuWiKlim</h3>
-  <p>This project investigates traditional orchard meadows under climate change.  <a href="https://www.streuwiklimprojekt.de/" class="access-link">Access</a></p>
-  <p><span style="font-size: smaller;"><strong>Funder:</strong> Bayerisches Staatsministerium für Ernährung, Landwirschaft und Forsten</span></p>
-</div>
-
-
-<h2>Other projects</h2>
-<div class="project-item">
-  <h3>BumbleDiets </h3>
-  <p>In this project, we investigate how different are diet breadth and nutrient intake between urban and rural bumblebees</p>
-</div>
-<div class="project-item">
-  <h3>BumbleGenes </h3>
-  <p>In this project, we investigate genetic structure and adaptation in urban and rural bumblebees</p>
-</div>
-<div class="project-item">
-  <h3>MUTAAN </h3>
-  <p>In this project, we study the spatial distribution of multifacet diversity of five arthropod groups and their spatial missmatch with protected areas in Switzerland</p>
-</div>
 
 <h2>Past projects</h2>
 <div class="project-item">
